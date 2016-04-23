@@ -1,0 +1,4 @@
+# This is just a requirements.txt for building the docs
+rst.linker==1.5
+Sphinx==1.4.1
+sphinx-rtd-theme==0.1.9
